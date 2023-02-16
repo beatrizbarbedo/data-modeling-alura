@@ -4,7 +4,7 @@
 
 ### Tópicos 📝
 
-1. [O que é Modelo Conceitual?](https://github.com/beatrizbarbedo/data-modeling-alura/tree/main/modelo-conceitual#modelo-entidade-relacionamento-)
+1. [O que é Modelo Conceitual?](https://github.com/beatrizbarbedo/data-modeling-alura/blob/main/modelo-conceitual/README.md#o-que-%C3%A9-modelo-conceitual-)
 2. [Entrevista com o Cliente](https://github.com/beatrizbarbedo/data-modeling-alura/tree/main/modelo-conceitual#entrevista-com-o-cliente-)
 3. [Análise da Entrevista](https://github.com/beatrizbarbedo/data-modeling-alura/tree/main/modelo-conceitual#an%C3%A1lise-da-entrevista-)
 4. [Criação do Modelo Conceitual](https://github.com/beatrizbarbedo/data-modeling-alura/tree/main/modelo-conceitual#cria%C3%A7%C3%A3o-do-modelo-conceitual-)
@@ -30,3 +30,4 @@ Ele normalmente é criado a partir da compreensão do domínio de negócios, das
 
 Para a gerar o modelo conceitual, iremos usar a ferramenta [BrModelo](https://sourceforge.net/projects/brmodelo/).  
 
+![Untitled](https://user-images.githubusercontent.com/83524503/219479638-8931958a-ccb3-488f-b7eb-01a8b9cedaf1.png)
