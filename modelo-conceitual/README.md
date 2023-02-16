@@ -4,10 +4,10 @@
 
 ### Tópicos 📝
 
-1. [Modelo Entidade Relacionamento](https://github.com/beatrizbarbedo/data-modeling-alura/edit/main/modelo-conceitual/README.md#modelo-entidade-relacionamento)
-2. [Entrevista com o Cliente](https://github.com/beatrizbarbedo/data-modeling-alura/edit/main/modelo-conceitual/README.md#entrevista-com-o-cliente-)
-3. [Análise da Entrevista](https://github.com/beatrizbarbedo/data-modeling-alura/edit/main/modelo-conceitual/README.md#an%C3%A1lise-da-entrevista-)
-4. [Criação do Modelo Conceitual](https://github.com/beatrizbarbedo/data-modeling-alura/edit/main/modelo-conceitual/README.md#cria%C3%A7%C3%A3o-do-modelo-conceitual-)
+1. [Modelo Entidade Relacionamento](https://github.com/beatrizbarbedo/data-modeling-alura/tree/main/modelo-conceitual#modelo-entidade-relacionamento-)
+2. [Entrevista com o Cliente](https://github.com/beatrizbarbedo/data-modeling-alura/tree/main/modelo-conceitual#entrevista-com-o-cliente-)
+3. [Análise da Entrevista](https://github.com/beatrizbarbedo/data-modeling-alura/tree/main/modelo-conceitual#an%C3%A1lise-da-entrevista-)
+4. [Criação do Modelo Conceitual](https://github.com/beatrizbarbedo/data-modeling-alura/tree/main/modelo-conceitual#cria%C3%A7%C3%A3o-do-modelo-conceitual-)
 
 ### Antes de começar, você precisa:
 
