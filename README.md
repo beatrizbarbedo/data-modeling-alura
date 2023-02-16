@@ -11,7 +11,7 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Criar os arquivos referentes ao primeiro bloco
-- [x] Criar os arquivos referentes ao segundo bloco
-- [ ] Criar os arquivos referentes ao terceiro bloco
+- [ ] Enviar os arquivos referentes ao primeiro bloco
+- [ ] Enviar os arquivos referentes ao segundo bloco
+- [ ] Enviar os arquivos referentes ao terceiro bloco
 
