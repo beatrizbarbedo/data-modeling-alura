@@ -6,7 +6,7 @@
 
 1. [O que é Modelo Conceitual?](https://github.com/beatrizbarbedo/data-modeling-alura/blob/main/modelo-conceitual/README.md#o-que-%C3%A9-modelo-conceitual-)
 2. [Entrevista com o Cliente](https://github.com/beatrizbarbedo/data-modeling-alura/tree/main/modelo-conceitual#entrevista-com-o-cliente-)
-3. [Criação do Modelo Conceitual](https://github.com/beatrizbarbedo/data-modeling-alura/tree/main/modelo-conceitual#cria%C3%A7%C3%A3o-do-modelo-conceitual-)
+3. [Resultados](https://github.com/beatrizbarbedo/data-modeling-alura/blob/main/modelo-conceitual/README.md#resultados-)
 
 ### Antes de começar, você precisa:
 
