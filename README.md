@@ -4,7 +4,7 @@
 
 ## Ajustes e melhorias
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+O repositório ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [ ] Criar README.md do modelo conceitual
 - [ ] Criar README.md do modelo lógico
