@@ -1,6 +1,6 @@
 # Formação em Modelagem de Dados
 
-> Os projetos presentes nesse repositório foram criados durante as aulas dos cursos presentes na Formação em Modelagem de Dados da Alura. 
+> Os projetos presentes nesse repositório foram criados durante as aulas dos cursos presentes na Formação em Modelagem de Dados da Alura.
 
 ## Ajustes e melhorias
 
